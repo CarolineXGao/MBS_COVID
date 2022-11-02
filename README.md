@@ -2,7 +2,8 @@
 
 This repository contains analysis code for the paper: 
 
-How did rates of mental health service use by Australian youth change during the COVID-19 pandemic?
+Inequalities in Access to Mental Health Treatment by Australian Youths During the COVID-19 Pandemic.
+
 
 
 <a href="https://carolinexgao.github.io/MBS_COVID/Analysis_COVID.html">Analysis Code</a>
